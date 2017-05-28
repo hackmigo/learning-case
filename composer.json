@@ -1,0 +1,10 @@
+
+{
+    "name": "shazi7804/learning-case",
+    "description": "learning php",
+    "type": "library",
+    "license": "shazi7804. All rights reserved.",
+    "require": {
+        "php": ">=5.5.9"
+    }
+}
